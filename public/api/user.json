@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": "u_001",
+    "name": "Demo Kid",
+    "email": "demo@example.com",
+    "avatar": "/assets/images/avatar.png",
+    "streak": { "current": 5, "best": 12, "lastUpdated": "2025-12-11" },
+    "bookmarks": ["fc_001", "fc_004", "fc_010"],
+    "badges": [
+      { "id": "b_001", "name": "Newcomer", "icon": "🌱", "description": "Hoàn thành buổi học đầu tiên" },
+      { "id": "b_002", "name": "3-Day Streak", "icon": "🔥", "description": "Duy trì streak 3 ngày" },
+      { "id": "b_003", "name": "Memory Master", "icon": "🧠", "description": "Thắng 3 trận Memory" }
+    ]
+  }
+}

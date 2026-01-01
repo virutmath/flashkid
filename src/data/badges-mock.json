@@ -1,0 +1,6 @@
+[
+  { "id": "b_001", "name": "Newcomer", "icon": "🌱", "description": "Hoàn thành buổi học đầu tiên" },
+  { "id": "b_002", "name": "3-Day Streak", "icon": "🔥", "description": "Duy trì streak 3 ngày" },
+  { "id": "b_003", "name": "Memory Master", "icon": "🧠", "description": "Thắng 3 trận Memory" },
+  { "id": "b_004", "name": "Quiz Champ", "icon": "🏆", "description": "Đạt 90 điểm ở Quiz" }
+]

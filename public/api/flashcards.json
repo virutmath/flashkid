@@ -1,0 +1,322 @@
+{
+  "data": [
+    {
+      "id": "fc_001",
+      "topic": "animals",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "english_phonetic": "mow",
+        "image_url": "/assets/images/cat.png",
+        "audio": {
+          "cn": "/assets/audio/cn/cat_cn.mp3",
+          "en": "/assets/audio/en/cat_en.mp3",
+          "vi": "/assets/audio/vi/cat_vi.mp3"
+        },
+        "meanings": {
+          "en": "Cat",
+          "vi": "Con mèo"
+        },
+        "example_sentence": {
+          "hanzi": "这是一只猫",
+          "pinyin": "Zhè shì yī zhī māo",
+          "meaning_vi": "Đây là một con mèo"
+        }
+      }
+    },
+    {
+      "id": "fc_002",
+      "topic": "fruits",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "苹果",
+        "pinyin": "píngguǒ",
+        "english_phonetic": "ping-gwaw",
+        "image_url": "/assets/images/apple.png",
+        "audio": {
+          "cn": "/assets/audio/cn/apple_cn.mp3",
+          "en": "/assets/audio/en/apple_en.mp3",
+          "vi": "/assets/audio/vi/apple_vi.mp3"
+        },
+        "meanings": {
+          "en": "Apple",
+          "vi": "Quả táo"
+        },
+        "example_sentence": {
+          "hanzi": "我喜欢吃苹果",
+          "pinyin": "Wǒ xǐhuān chī píngguǒ",
+          "meaning_vi": "Tôi thích ăn táo"
+        }
+      }
+    },
+    {
+      "id": "fc_003",
+      "topic": "animals",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "english_phonetic": "go",
+        "image_url": "/assets/images/dog.png",
+        "audio": {
+          "cn": "/assets/audio/cn/dog_cn.mp3",
+          "en": "/assets/audio/en/dog_en.mp3",
+          "vi": "/assets/audio/vi/dog_vi.mp3"
+        },
+        "meanings": {
+          "en": "Dog",
+          "vi": "Con chó"
+        },
+        "example_sentence": {
+          "hanzi": "这是一只狗",
+          "pinyin": "Zhè shì yī zhī gǒu",
+          "meaning_vi": "Đây là một con chó"
+        }
+      }
+    },
+    {
+      "id": "fc_004",
+      "topic": "fruits",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "香蕉",
+        "pinyin": "xiāngjiāo",
+        "english_phonetic": "shyahng-jyao",
+        "image_url": "/assets/images/banana.png",
+        "audio": {
+          "cn": "/assets/audio/cn/banana_cn.mp3",
+          "en": "/assets/audio/en/banana_en.mp3",
+          "vi": "/assets/audio/vi/banana_vi.mp3"
+        },
+        "meanings": {
+          "en": "Banana",
+          "vi": "Quả chuối"
+        },
+        "example_sentence": {
+          "hanzi": "我喜欢吃香蕉",
+          "pinyin": "Wǒ xǐhuān chī xiāngjiāo",
+          "meaning_vi": "Tôi thích ăn chuối"
+        }
+      }
+    },
+    {
+      "id": "fc_005",
+      "topic": "animals",
+      "level": "HSK4",
+      "is_premium": false,
+      "content": {
+        "hanzi": "鸟",
+        "pinyin": "niǎo",
+        "english_phonetic": "nyow",
+        "image_url": "/assets/images/bird.png",
+        "audio": {
+          "cn": "/assets/audio/cn/bird_cn.mp3",
+          "en": "/assets/audio/en/bird_en.mp3",
+          "vi": "/assets/audio/vi/bird_vi.mp3"
+        },
+        "meanings": {
+          "en": "Bird",
+          "vi": "Con chim"
+        },
+        "example_sentence": {
+          "hanzi": "天空中有一只鸟",
+          "pinyin": "Tiānkōng zhōng yǒu yī zhī niǎo",
+          "meaning_vi": "Có một con chim trên bầu trời"
+        }
+      }
+    },
+    {
+      "id": "fc_006",
+      "topic": "fruits",
+      "level": "HSK4",
+      "is_premium": false,
+      "content": {
+        "hanzi": "葡萄",
+        "pinyin": "pútao",
+        "english_phonetic": "poo-tao",
+        "image_url": "/assets/images/grape.png",
+        "audio": {
+          "cn": "/assets/audio/cn/grape_cn.mp3",
+          "en": "/assets/audio/en/grape_en.mp3",
+          "vi": "/assets/audio/vi/grape_vi.mp3"
+        },
+        "meanings": {
+          "en": "Grape",
+          "vi": "Quả nho"
+        },
+        "example_sentence": {
+          "hanzi": "这些葡萄很甜",
+          "pinyin": "Zhèxiē pútao hěn tián",
+          "meaning_vi": "Những quả nho này rất ngọt"
+        }
+      }
+    },
+    {
+      "id": "fc_007",
+      "topic": "animals",
+      "level": "HSK4",
+      "is_premium": false,
+      "content": {
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "english_phonetic": "yoo",
+        "image_url": "/assets/images/fish.png",
+        "audio": {
+          "cn": "/assets/audio/cn/fish_cn.mp3",
+          "en": "/assets/audio/en/fish_en.mp3",
+          "vi": "/assets/audio/vi/fish_vi.mp3"
+        },
+        "meanings": {
+          "en": "Fish",
+          "vi": "Con cá"
+        },
+        "example_sentence": {
+          "hanzi": "鱼在水里游泳",
+          "pinyin": "Yú zài shuǐ lǐ yóuyǒng",
+          "meaning_vi": "Cá bơi trong nước"
+        }
+      }
+    },
+    {
+      "id": "fc_008",
+      "topic": "fruits",
+      "level": "HSK4",
+      "is_premium": false,
+      "content": {
+        "hanzi": "橙子",
+        "pinyin": "chéngzi",
+        "english_phonetic": "chung-zuh",
+        "image_url": "/assets/images/orange.png",
+        "audio": {
+          "cn": "/assets/audio/cn/orange_cn.mp3",
+          "en": "/assets/audio/en/orange_en.mp3",
+          "vi": "/assets/audio/vi/orange_vi.mp3"
+        },
+        "meanings": {
+          "en": "Orange",
+          "vi": "Quả cam"
+        },
+        "example_sentence": {
+          "hanzi": "我喜欢喝橙子汁",
+          "pinyin": "Wǒ xǐhuān hē chéngzi zhī",
+          "meaning_vi": "Tôi thích uống nước cam"
+        }
+      }
+    },
+    {
+      "id": "fc_009",
+      "topic": "animals",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "兔",
+        "pinyin": "tù",
+        "english_phonetic": "too",
+        "image_url": "/assets/images/rabbit.png",
+        "audio": {
+          "cn": "/assets/audio/cn/rabbit_cn.mp3",
+          "en": "/assets/audio/en/rabbit_en.mp3",
+          "vi": "/assets/audio/vi/rabbit_vi.mp3"
+        },
+        "meanings": {
+          "en": "Rabbit",
+          "vi": "Con thỏ"
+        },
+        "example_sentence": {
+          "hanzi": "这是一只兔",
+          "pinyin": "Zhè shì yī zhī tù",
+          "meaning_vi": "Đây là một con thỏ"
+        }
+      }
+    },
+    {
+      "id": "fc_010",
+      "topic": "fruits",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "西瓜",
+        "pinyin": "xīguā",
+        "english_phonetic": "shee-gwah",
+        "image_url": "/assets/images/watermelon.png",
+        "audio": {
+          "cn": "/assets/audio/cn/watermelon_cn.mp3",
+          "en": "/assets/audio/en/watermelon_en.mp3",
+          "vi": "/assets/audio/vi/watermelon_vi.mp3"
+        },
+        "meanings": {
+          "en": "Watermelon",
+          "vi": "Quả dưa hấu"
+        },
+        "example_sentence": {
+          "hanzi": "夏天吃西瓜很凉快",
+          "pinyin": "Xiàtiān chī xīguā hěn liángkuai",
+          "meaning_vi": "Ăn dưa hấu vào mùa hè rất mát"
+        }
+      }
+    },
+    {
+      "id": "fc_011",
+      "topic": "animals",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "蛇",
+        "pinyin": "shé",
+        "english_phonetic": "shuh",
+        "image_url": "/assets/images/snake.png",
+        "audio": {
+          "cn": "/assets/audio/cn/snake_cn.mp3",
+          "en": "/assets/audio/en/snake_en.mp3",
+          "vi": "/assets/audio/vi/snake_vi.mp3"
+        },
+        "meanings": {
+          "en": "Snake",
+          "vi": "Con rắn"
+        },
+        "example_sentence": {
+          "hanzi": "树上有一条蛇",
+          "pinyin": "Shù shàng yǒu yī tiáo shé",
+          "meaning_vi": "Có một con rắn trên cây"
+        }
+      }
+    },
+    {
+      "id": "fc_012",
+      "topic": "fruits",
+      "level": "HSK3",
+      "is_premium": false,
+      "content": {
+        "hanzi": "梨",
+        "pinyin": "lí",
+        "english_phonetic": "lee",
+        "image_url": "/assets/images/pear.png",
+        "audio": {
+          "cn": "/assets/audio/cn/pear_cn.mp3",
+          "en": "/assets/audio/en/pear_en.mp3",
+          "vi": "/assets/audio/vi/pear_vi.mp3"
+        },
+        "meanings": {
+          "en": "Pear",
+          "vi": "Quả lê"
+        },
+        "example_sentence": {
+          "hanzi": "这个梨很甜",
+          "pinyin": "Zhège lí hěn tián",
+          "meaning_vi": "Quả lê này rất ngọt"
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 12,
+    "topics": ["animals", "fruits"],
+    "levels": ["HSK3", "HSK4"],
+    "generated_at": "2025-12-10T00:00:00Z"
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "fc_001",
+    "topic": "animals",
+    "level": "HSK3",
+    "is_premium": false,
+    "content": {
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "english_phonetic": "mow",
+      "image_url": "/assets/images/cat.png",
+      "audio": {
+        "cn": "/assets/audio/cn/cat_cn.mp3",
+        "en": "/assets/audio/en/cat_en.mp3",
+        "vi": "/assets/audio/vi/cat_vi.mp3"
+      },
+      "meanings": {
+        "en": "Cat",
+        "vi": "Con mèo"
+      },
+      "example_sentence": {
+        "hanzi": "这是一只猫",
+        "pinyin": "Zhè shì yī zhī māo",
+        "meaning_vi": "Đây là một con mèo"
+      }
+    }
+  },
+  {
+    "id": "fc_002",
+    "topic": "fruits",
+    "level": "HSK3",
+    "is_premium": false,
+    "content": {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "english_phonetic": "ping-gwaw",
+      "image_url": "/assets/images/apple.png",
+      "audio": {
+        "cn": "/assets/audio/cn/apple_cn.mp3",
+        "en": "/assets/audio/en/apple_en.mp3",
+        "vi": "/assets/audio/vi/apple_vi.mp3"
+      },
+      "meanings": {
+        "en": "Apple",
+        "vi": "Quả táo"
+      },
+      "example_sentence": {
+        "hanzi": "我喜欢吃苹果",
+        "pinyin": "Wǒ xǐhuān chī píngguǒ",
+        "meaning_vi": "Tôi thích ăn táo"
+      }
+    }
+  }
+]

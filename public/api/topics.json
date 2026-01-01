@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "id": "animals", "label": "Animals", "count": 1 },
+    { "id": "fruits", "label": "Fruits", "count": 1 }
+  ],
+  "meta": {
+    "total": 2
+  }
+}

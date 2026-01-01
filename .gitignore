@@ -1,0 +1,32 @@
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+/dist/
+/.vite/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Editor & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Tests & coverage
+coverage/
+
+# Temporary
+*.tmp
+*.swp
+*.swo
