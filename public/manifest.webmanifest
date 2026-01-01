@@ -1,28 +1,45 @@
 {
   "name": "Flashcard Kids - Chinese Learning",
   "short_name": "FlashcardKids",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/flashkid/",
+  "scope": "/flashkid/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "description": "Flashcard Kids - Chinese Learning App",
+  "theme_color": "#667eea",
+  "description": "Learn Chinese with interactive flashcards",
+  "screenshots": [
+    {
+      "src": "/flashkid/pwa-192x192.png.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/flashkid/pwa-512x512.png.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ],
   "icons": [
     {
-      "src": "/pwa-192x192.png.svg",
+      "src": "/flashkid/pwa-192x192.png.svg",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/svg+xml",
+      "purpose": "any"
     },
     {
-      "src": "/pwa-512x512.png.svg",
+      "src": "/flashkid/pwa-512x512.png.svg",
       "sizes": "512x512",
-      "type": "image/svg+xml"
+      "type": "image/svg+xml",
+      "purpose": "any"
     },
     {
-      "src": "/apple-touch-icon.png.svg",
+      "src": "/flashkid/apple-touch-icon.png.svg",
       "sizes": "180x180",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ]
 }
