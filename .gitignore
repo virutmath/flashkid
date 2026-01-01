@@ -9,7 +9,7 @@ pnpm-debug.log*
 node_modules/
 
 # Build outputs
-/dist/
+# /dist/ - keeping dist for GitHub Pages deployment
 /.vite/
 
 # Local env files
